@@ -2,46 +2,38 @@
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="ctrl alt a" />
   </action>
-  <action id="Diff.NextChange" />
-  <action id="Diff.PrevChange" />
-  <action id="EditorMoveToPageBottom" />
-  <action id="EditorMoveToPageTop" />
+  <action id="CopyElement" />
   <action id="EditorNextWordInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
   <action id="EditorNextWordInDifferentHumpsModeWithSelection">
     <keyboard-shortcut first-keystroke="shift alt right" />
-    <keyboard-shortcut first-keystroke="shift altGraph right" />
   </action>
   <action id="EditorPreviousWordInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
   <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
     <keyboard-shortcut first-keystroke="shift alt left" />
-    <keyboard-shortcut first-keystroke="shift altGraph left" />
   </action>
   <action id="Git.ResolveConflicts">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
-  <action id="NextEditorTab" />
-  <action id="NextTab">
-    <keyboard-shortcut first-keystroke="alt page_down" />
+  <action id="NextEditorTab">
     <keyboard-shortcut first-keystroke="ctrl page_down" />
   </action>
-  <action id="PreviousEditorTab" />
-  <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="alt page_up" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
+  </action>
+  <action id="PreviousEditorTab">
     <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="ctrl alt l" />
-    <keyboard-shortcut first-keystroke="ctrl altGraph l" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
-  <action id="ShowIntentionActions">
-    <keyboard-shortcut first-keystroke="alt enter" />
-    <keyboard-shortcut first-keystroke="altGraph enter" />
+  <action id="Refresh">
+    <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="SynchronizeCurrentFile">
-    <keyboard-shortcut first-keystroke="f5" />
+    <keyboard-shortcut first-keystroke="ctrl f5" />
   </action>
 </keymap>
