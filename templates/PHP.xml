@@ -29,7 +29,7 @@
     <variable name="PARAMETERS" expression="phpVar" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="testf" value="private function test$NAME$(): void {&#10;    $END$&#10;}" description="private function" toReformat="true" toShortenFQNames="true">
+  <template name="testf" value="public function test$NAME$(): void {&#10;    $END$&#10;}" description="private function" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP Class Member" value="true" />
