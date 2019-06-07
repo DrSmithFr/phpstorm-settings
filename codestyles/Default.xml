@@ -39,6 +39,10 @@
     <option name="SEQUENCE_ON_NEW_LINE" value="true" />
     <option name="BLOCK_MAPPING_ON_NEW_LINE" value="true" />
   </yaml>
+  <codeStyleSettings language="EditorConfig">
+    <option name="SPACE_BEFORE_COLON" value="true" />
+    <option name="SPACE_AFTER_COLON" value="true" />
+  </codeStyleSettings>
   <codeStyleSettings language="JSON">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
   </codeStyleSettings>
