@@ -17,5 +17,6 @@
     <mask>*.php</mask>
     <mask>*.xml</mask>
     <mask>*.yml</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
