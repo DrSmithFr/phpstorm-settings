@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Gauche'</ShortCut>
           <Description>Back</Description>
-          <Count>131</Count>
+          <Count>136</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -22,7 +22,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insérer'</ShortCut>
           <Description>Copy</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -54,7 +54,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>293</Count>
+          <Count>304</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -102,7 +102,15 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>75</Count>
+          <Count>76</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'SMoneyClientTest.testMandateRequest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'SMoneyClientTest.testMandateRequest'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resolve Conflicts...">
