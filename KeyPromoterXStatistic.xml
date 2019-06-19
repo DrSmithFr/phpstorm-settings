@@ -102,7 +102,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>99</Count>
+          <Count>100</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'SMoneyClientTest.testMandateRequest'">
