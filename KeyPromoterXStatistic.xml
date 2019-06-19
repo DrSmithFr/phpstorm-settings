@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Gauche'</ShortCut>
           <Description>Back</Description>
-          <Count>163</Count>
+          <Count>164</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -102,7 +102,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>100</Count>
+          <Count>105</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'SMoneyClientTest.testMandateRequest'">
