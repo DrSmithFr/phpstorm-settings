@@ -153,6 +153,22 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Show Diff">
+        <Item>
+          <IdeaActionID>Diff.ShowDiff</IdeaActionID>
+          <ShortCut>'Ctrl+D'</ShortCut>
+          <Description>Show Diff</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Diff as UML">
+        <Item>
+          <IdeaActionID>Uml.ShowDiff</IdeaActionID>
+          <ShortCut>'Ctrl+Maj+D'</ShortCut>
+          <Description>Show Diff as UML</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'app_dev.php'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
