@@ -105,6 +105,14 @@
           <Count>105</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Remove from Project View">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'Supprimer'</ShortCut>
+          <Description>Remove from Project View</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'SMoneyClientTest.testMandateRequest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
