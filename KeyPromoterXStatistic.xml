@@ -137,6 +137,14 @@
           <Count>105</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Remove">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'Supprimer'</ShortCut>
+          <Description>Remove</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Remove from Project View">
         <Item>
           <IdeaActionID>$Delete</IdeaActionID>
