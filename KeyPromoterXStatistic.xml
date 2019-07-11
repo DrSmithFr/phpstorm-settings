@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Gauche'</ShortCut>
           <Description>Back</Description>
-          <Count>357</Count>
+          <Count>358</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -78,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>707</Count>
+          <Count>710</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
