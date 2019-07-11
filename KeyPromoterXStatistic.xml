@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Gauche'</ShortCut>
           <Description>Back</Description>
-          <Count>329</Count>
+          <Count>332</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -78,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>678</Count>
+          <Count>683</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -161,6 +161,38 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ActionBuilderTest.testActionLowPerformance'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'ActionBuilderTest.testActionLowPerformance'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ActionBuilderTest.testActionNullButNoisyPerformance'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'ActionBuilderTest.testActionNullButNoisyPerformance'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ActionBuilderTest.testBuild'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'ActionBuilderTest.testBuild'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ActionBuilderTest.testLoopingRandomizedTests'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'ActionBuilderTest.testLoopingRandomizedTests'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'HistoryTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -222,6 +254,14 @@
           <IdeaActionID>Uml.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+Maj+D'</ShortCut>
           <Description>Show Diff as UML</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ActionBuilderTest.testLoopingRandomizedTests'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ActionBuilderTest.testLoopingRandomizedTests'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
