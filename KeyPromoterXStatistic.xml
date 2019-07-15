@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Gauche'</ShortCut>
           <Description>Back</Description>
-          <Count>417</Count>
+          <Count>418</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -126,7 +126,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>23</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties">
