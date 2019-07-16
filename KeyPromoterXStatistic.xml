@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Gauche'</ShortCut>
           <Description>Back</Description>
-          <Count>458</Count>
+          <Count>460</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -286,7 +286,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Maj+F10'</ShortCut>
           <Description>Run 'Billing (PHPUnit)'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Set NULL">
