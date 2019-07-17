@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Gauche'</ShortCut>
           <Description>Back</Description>
-          <Count>471</Count>
+          <Count>473</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -78,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>902</Count>
+          <Count>906</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -134,7 +134,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>30</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties">
@@ -337,6 +337,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'BillingServiceTest.testBilling'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'BillingServiceTest.testBilling'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'WalletBuilderTest.testBasicWalletBuilding'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -414,7 +422,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>148</Count>
+          <Count>152</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
