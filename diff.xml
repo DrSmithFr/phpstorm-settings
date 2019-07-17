@@ -3,7 +3,9 @@
     <option name="PLACES_MAP">
       <entry key="Default">
         <PlaceSettings>
-          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
+          <option name="ENABLE_SYNC_SCROLL" value="false" />
+          <option name="HIGHLIGHT_POLICY" value="BY_WORD_SPLIT" />
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
         </PlaceSettings>
       </entry>
       <entry key="Merge">
