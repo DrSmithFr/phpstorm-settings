@@ -14,7 +14,15 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Gauche'</ShortCut>
           <Description>Back</Description>
-          <Count>496</Count>
+          <Count>502</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Component Declaration">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'Ctrl+B'</ShortCut>
+          <Description>Component Declaration</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -118,7 +126,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Maj+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>29</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -142,7 +150,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>34</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties">
