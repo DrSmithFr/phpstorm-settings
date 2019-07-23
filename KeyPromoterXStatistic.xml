@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Gauche'</ShortCut>
           <Description>Back</Description>
-          <Count>608</Count>
+          <Count>609</Count>
         </Item>
       </Statistic>
       <Statistic Action="Component Declaration">
@@ -94,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1147</Count>
+          <Count>1150</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -182,7 +182,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>115</Count>
+          <Count>120</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -414,7 +414,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Entrée'</ShortCut>
           <Description>Submit</Description>
-          <Count>49</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
@@ -433,6 +433,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Synchronize 'dev'">
+        <Item>
+          <IdeaActionID>SynchronizeCurrentFile</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Synchronize 'dev'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Synchronize 'documents'">
         <Item>
           <IdeaActionID>SynchronizeCurrentFile</IdeaActionID>
@@ -446,6 +454,14 @@
           <IdeaActionID>SynchronizeCurrentFile</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Synchronize 'mon-petit-placement'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Synchronize 'var'">
+        <Item>
+          <IdeaActionID>SynchronizeCurrentFile</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Synchronize 'var'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
