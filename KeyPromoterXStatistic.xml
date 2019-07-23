@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Gauche'</ShortCut>
           <Description>Back</Description>
-          <Count>599</Count>
+          <Count>603</Count>
         </Item>
       </Statistic>
       <Statistic Action="Component Declaration">
@@ -94,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1141</Count>
+          <Count>1142</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -414,7 +414,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Entrée'</ShortCut>
           <Description>Submit</Description>
-          <Count>28</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
@@ -422,7 +422,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize 'SMoney'">
@@ -430,6 +430,14 @@
           <IdeaActionID>SynchronizeCurrentFile</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Synchronize 'SMoney'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Synchronize 'documents'">
+        <Item>
+          <IdeaActionID>SynchronizeCurrentFile</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Synchronize 'documents'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
