@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Gauche'</ShortCut>
           <Description>Back</Description>
-          <Count>641</Count>
+          <Count>644</Count>
         </Item>
       </Statistic>
       <Statistic Action="Component Declaration">
@@ -22,7 +22,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Component Declaration</Description>
-          <Count>14</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -462,7 +462,7 @@
           <IdeaActionID>SynchronizeCurrentFile</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Synchronize 'mon-petit-placement'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize 'var'">
