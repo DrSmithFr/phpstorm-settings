@@ -19,5 +19,6 @@
     <mask>*.twig</mask>
     <mask>*.scss</mask>
     <mask>.yml</mask>
+    <mask>.twig</mask>
   </component>
 </application>
