@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Gauche'</ShortCut>
           <Description>Back</Description>
-          <Count>819</Count>
+          <Count>826</Count>
         </Item>
       </Statistic>
       <Statistic Action="Component Declaration">
@@ -102,7 +102,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1487</Count>
+          <Count>1497</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -446,7 +446,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Entrée'</ShortCut>
           <Description>Submit</Description>
-          <Count>63</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
@@ -526,7 +526,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>208</Count>
+          <Count>209</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
