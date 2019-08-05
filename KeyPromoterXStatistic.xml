@@ -110,7 +110,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1589</Count>
+          <Count>1590</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
