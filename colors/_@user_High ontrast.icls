@@ -3,7 +3,7 @@
     <property name="created">2019-08-26T10:56:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-08-26T17:22:53</property>
+    <property name="modified">2019-08-26T17:24:03</property>
     <property name="originalScheme">High сontrast</property>
   </metaInfo>
   <colors>
@@ -646,7 +646,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3b514d" />
+        <option name="BACKGROUND" value="99ccbb" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
