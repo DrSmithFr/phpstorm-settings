@@ -3,7 +3,7 @@
     <property name="created">2019-08-26T10:56:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-08-26T13:47:19</property>
+    <property name="modified">2019-08-26T14:12:13</property>
     <property name="originalScheme">High сontrast</property>
   </metaInfo>
   <colors>
@@ -84,7 +84,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_4" value="470047" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="330003" />
     <option name="VISUAL_INDENT_GUIDE" value="808080" />
-    <option name="WHITESPACES" value="ffffff" />
+    <option name="WHITESPACES" value="727272" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="666666" />
   </colors>
   <attributes>
