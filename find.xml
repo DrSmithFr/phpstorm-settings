@@ -23,5 +23,6 @@
     <mask>.yml</mask>
     <mask>.twig</mask>
     <mask>.scss</mask>
+    <mask>.xml</mask>
   </component>
 </application>
