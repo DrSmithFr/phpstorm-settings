@@ -1,7 +1,6 @@
 <application>
   <component name="UISettings">
     <option name="EDITOR_TAB_PLACEMENT" value="2" />
-    <option name="PIN_FIND_IN_PATH_POPUP" value="true" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
   </component>
 </application>
