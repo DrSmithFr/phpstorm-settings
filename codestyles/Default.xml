@@ -35,7 +35,6 @@
     <option name="ALIGN_VAR_STATEMENTS" value="2" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="VAR_DECLARATION_WRAP" value="0" />
-    <option name="ALIGN_IMPORTS" value="true" />
   </TypeScriptCodeStyleSettings>
   <editorconfig>
     <option name="ENABLED" value="false" />
