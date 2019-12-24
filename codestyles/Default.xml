@@ -36,9 +36,6 @@
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="VAR_DECLARATION_WRAP" value="0" />
   </TypeScriptCodeStyleSettings>
-  <editorconfig>
-    <option name="ENABLED" value="false" />
-  </editorconfig>
   <yaml>
     <option name="SEQUENCE_ON_NEW_LINE" value="true" />
     <option name="BLOCK_MAPPING_ON_NEW_LINE" value="true" />
