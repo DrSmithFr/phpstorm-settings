@@ -1,12 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="domains" type="PLAIN_TEXT" />
       <mapping pattern="financial-experience" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="domains" type="PLAIN_TEXT" />
       <mapping pattern="pre-push" type="PLAIN_TEXT" />
-      <mapping ext="ext" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="ext" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
