@@ -4,6 +4,7 @@
       <mapping pattern="financial-experience" type="PLAIN_TEXT" />
       <mapping pattern="domains" type="PLAIN_TEXT" />
       <mapping pattern="pre-push" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="txt_38581027032020" type="PLAIN_TEXT" />
