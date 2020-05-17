@@ -5,6 +5,7 @@
       <mapping pattern="domains" type="PLAIN_TEXT" />
       <mapping pattern="financial-experience" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="bc8e78cc-887d-4f7f-b4ba-9ea93c9bfd33" type="PLAIN_TEXT" />
       <mapping pattern="pre-push" type="PLAIN_TEXT" />
       <mapping pattern="LICENCE" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
