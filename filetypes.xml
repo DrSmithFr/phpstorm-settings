@@ -7,6 +7,7 @@
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="bc8e78cc-887d-4f7f-b4ba-9ea93c9bfd33" type="PLAIN_TEXT" />
       <mapping pattern="pre-push" type="PLAIN_TEXT" />
+      <mapping pattern="8acb975c-0aa0-4f1f-b9f2-2455190712e7" type="PLAIN_TEXT" />
       <mapping pattern="LICENCE" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="ext" type="PLAIN_TEXT" />
